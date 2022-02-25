@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhil2402-01
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Python,HTML,CSS
+- 🌱 I’m currently learning javascript,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
